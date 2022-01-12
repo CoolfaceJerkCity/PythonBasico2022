@@ -3,5 +3,13 @@ Para la clase 2 :
 ***Libro Python Programming for data análisis-José Unpingco: Cap 1: 1.1.1 al 1.1.5
 ***Libro Data Wrangling with Python- Jackeline Kazil & Katherine J.: Cap2
 ***Documentación de Python - https://docs.python.org/3/tutorial/index.html : Cap 4.1
-***Introduction to computational thinking-Thomas Mailund. Cap 1: Páginas desde 14 a la 36.
+***Introduction to computational thinking-Thomas Mailund. Cap 2: Páginas desde 14 a la 36.
 ***MIT Course 6.001-002 Lecture 1(https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+Para la clase 3: 
+***Introduction to computational thinking-Thomas Mailund. Cap 2: De la 37 en adelante // Cap 6.: Páginas desde la 139-156(Antes de Funciones de orden superior)
+***Libro Python Programming for data análisis-José Unpingco: Cap 1: 1.1.5 y 1.1.6
+***W3 Schools : While : https://www.w3schools.com/python/python_while_loops.asp
+***W3 Schools : For : https://www.w3schools.com/python/python_for_loops.asp
+***W3 Schools: Functions: https://www.w3schools.com/python/python_functions.asp
+
