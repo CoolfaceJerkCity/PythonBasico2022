@@ -19,3 +19,8 @@ Para la clase 4:
 ***Pandas documentation pdf Version 2021. :https://pandas.pydata.org/docs/pandas.pdf Cap 2 : 2.2, 2.3, 2.4
 ***W3 Schools: Pandas : https://www.w3schools.com/python/pandas/pandas_intro.asp 
 ***W3 Schools: Numpy : https://www.w3schools.com/python/numpy/default.asp
+
+Para la clase 5:
+***Libro Python Programming for data análisis-José Unpingco: Cap 6: Del 6.1.1 al 6.1.10
+***W3 Schools: Matplotlib: https://www.w3schools.com/python/matplotlib_pyplot.asp
+***Documentacion Matplotlib: https://matplotlib.org/
