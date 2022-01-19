@@ -25,3 +25,8 @@ Para la clase 5:
 ***W3 Schools: Matplotlib: https://www.w3schools.com/python/matplotlib_pyplot.asp
 ***Documentacion Matplotlib: https://matplotlib.org/
 ***Python Data Science Handbook- Jake VanderPlas: Cap 4
+
+Para la clase 6: 
+***Python Data Science Handbook- Jake VanderPlas: Cap 5: Parte 1 y 2. 
+***Documentación Sklearn : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression
+***Practical Data Science with Python 3: Ervin Varga: Cap 7. Parte 1. 
